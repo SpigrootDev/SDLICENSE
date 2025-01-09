@@ -1,24 +1,24 @@
 Name of the license: "SpigrootDev NoBasic License (SNL)"
 
 1. Private use:
-The mod may be used freely for private purposes.
+The thing licensed with this may be used freely for private purposes.
 
 2. Access to the source code:
-The source code may be accessed and analyzed for the development of your own mods that depend on this mod.
+The source code may be accessed and analyzed for the development of your aplications.
 
 3. Prohibition of copying and distribution:
 It is prohibited to copy, modify or republish the source code or parts of it in any form without prior written permission.
 
 4. Commercial use and companies:
-The use of this mod in a commercial or industrial environment (including use by companies) is only permitted with the prior written consent of the licensor.
+The use of any media with this licenze in a commercial or industrial environment (including use by companies) is only permitted with the prior written consent of the licensor.
 
 In addition, any commercial use must clearly state:
 
-The name of the licensor as the owner of the mod.
+The name of the licensor as the owner.
 
 A note that the copyright lies with the licensor.
 Example of the statement:
-"This mod is used with permission from SpigrootDev(Maximilian Michalski). Copyright © 2024, SpigrootDev(Maximilian Michalski). All rights reserved."
+"This (item name for example: Website / Mod) is used with permission from SpigrootDev(Maximilian Michalski). Copyright © 2025, SpigrootDev(Maximilian Michalski). All rights reserved."
 
 5. Disclaimer:
-The mod is provided "as is", without warranty of any kind. The author is not liable for any damages resulting from the use of the mod.
+Every thing with this license is provided "as is", without warranty of any kind. The author is not liable for any damages resulting from using the sources aso..
